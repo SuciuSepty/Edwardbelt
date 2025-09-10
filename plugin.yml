@@ -1,0 +1,7 @@
+name: Shadowhand
+version: '1.0'
+main: com.gods.shadowhand.ShadowHandPlugin
+api-version: '1.21'
+depend: [EdTools]
+load: POSTWORLD
+description: Adds a Shadow Hand enchantment that integrates with EdTools
