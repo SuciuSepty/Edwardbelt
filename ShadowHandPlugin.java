@@ -58,4 +58,4 @@ public final class ShadowHandPlugin extends JavaPlugin implements Listener {
         instance = null;
     }
 }
-}
+
